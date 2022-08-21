@@ -3,7 +3,7 @@ import sys
 import psutil
 import json
 
-ip = '192.168.1.39'
+ip = '127.0.0.1'
 port = 6666
 
 def get_size(bytes, suffix="B"):
@@ -60,4 +60,4 @@ def main():
 
 if __name__ == "__main__":
         main()
-        
+

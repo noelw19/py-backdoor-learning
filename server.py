@@ -2,7 +2,7 @@ from re import T
 import socket
 import json
 
-ip = '192.168.1.39'
+ip = '127.0.0.1'
 port = 6666
 
 def saveToFile(tarData):
