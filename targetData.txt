@@ -1,0 +1,16 @@
+
+======================================== Target ========================================
+
+{
+    "OS": "linux",
+    "Network": {
+        "interface Name": "enp5s0",
+        "IP Address": "172.17.0.1",
+        "Netmask": null,
+        "Broadcast IP": "172.17.255.255",
+        "MAC Address": "a8:1e:84:cb:9f:0b",
+        "Broadcast MAC": "ff:ff:ff:ff:ff:ff",
+        "Total Bytes Sent": "34.86MB",
+        "Total Bytes Received": "581.57MB"
+    }
+}
